@@ -1,2 +1,2 @@
-# ECE-6140-Digital-System-Testing
+# Digital-System-Testing
 Course Projects
